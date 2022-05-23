@@ -1,0 +1,9 @@
+div{
+  float:left;
+  margin-left: 4%
+}
+
+input[type = button]:hoover{
+  background-color: orange;
+  cursor:pointer;
+}
